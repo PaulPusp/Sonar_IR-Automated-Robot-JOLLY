@@ -13,3 +13,6 @@ IN3 = Pin 4
 IN4 = Pin 5
 ENA = Pin 6
 ENB = Pin 7
+
+
+**PLEASE CITE IF YOU USE THIS CODE**
